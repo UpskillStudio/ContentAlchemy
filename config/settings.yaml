@@ -1,0 +1,19 @@
+model:
+  claude: "claude-sonnet-4-6"
+  dalle: "dall-e-3"
+  image_size: "1024x1024"
+  image_quality: "standard"
+
+research:
+  max_results: 5
+  search_depth: "advanced"
+
+content:
+  blog_min_words: 800
+  blog_max_words: 1500
+  linkedin_max_chars: 3000
+  linkedin_hashtag_count: 5
+
+workflow:
+  max_retries: 3
+  timeout_seconds: 60
