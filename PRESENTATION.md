@@ -26,8 +26,8 @@ style: |
 
 Multi-agent LangGraph system with Claude Sonnet 4.6
 
-**Capstone Project — Applied Agentic AI for SWEs**
-Interview Kickstart
+**Multi-Agent AI Project**
+UpskillStudio
 
 ---
 

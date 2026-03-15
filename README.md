@@ -178,9 +178,9 @@ pytest tests/integration/ -v -m integration
 
 ---
 
-## Capstone Project — Interview Kickstart
+## Multi-Agent AI Project
 
-Built for the *Applied Agentic AI for SWEs* course capstone project.
+A multi-agent content automation system built with LangGraph and Claude.
 
 - Multi-agent orchestration with LangGraph
 - 6 specialized agents with distinct capabilities
